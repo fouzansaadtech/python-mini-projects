@@ -17,14 +17,31 @@ This repository contains beginner-friendly Python projects that I completed whil
 
 ## 📂 Projects
 
-- Grade Calculator
-- Employee Bonus Calculator
-- Login Authentication
-- Online Shopping Discount
-- Simple Calculator
-- Smart ATM Login
-- Student Scholarship System
-- Mobile Unlock System
+## Projects
+
+### 1. Smart ATM
+Checks ATM PIN and validates withdrawal amount.
+
+### 2. Student Scholarship System
+Determines scholarship eligibility based on marks and attendance.
+
+### 3. Login Authentication
+Validates username and password.
+
+### 4. Employee Bonus Calculator
+Calculates employee bonus using salary.
+
+### 5. Online Shopping Discount
+Calculates discounts according to purchase amount.
+
+### 6. Simple Calculator
+Performs +, -, *, / operations.
+
+### 7. Grade Calculator
+Displays grades based on marks.
+
+### 8. Mobile Unlock System
+Unlocks a mobile after password and battery validation.
 
 ## 🛠 Skills Gained
 
